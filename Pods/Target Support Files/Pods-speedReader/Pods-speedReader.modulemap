@@ -1,0 +1,6 @@
+framework module Pods_speedReader {
+  umbrella header "Pods-speedReader-umbrella.h"
+
+  export *
+  module * { export * }
+}
